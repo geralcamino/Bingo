@@ -10,3 +10,15 @@ C:\Users\angie\source\repos\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs
 C:\Users\angie\source\repos\Bingo\Bingo\obj\Debug\Bingo.csproj.CopyComplete
 C:\Users\angie\source\repos\Bingo\Bingo\obj\Debug\Bingo.exe
 C:\Users\angie\source\repos\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\obj\Debug\Bingo.csproj.SuggestedBindingRedirects.cache
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\obj\Debug\Bingo.csproj.CopyComplete
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\geral\OneDrive\Escritorio\Bingo\Bingo\obj\Debug\Bingo.pdb
